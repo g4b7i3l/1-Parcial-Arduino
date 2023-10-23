@@ -5,13 +5,18 @@ en la Parte 1) o los números primos en el rango de 0 a 99.
 Investiga un componente electrónico adicional que podría mejorar este proyecto.
 Proporciona una descripción detallada del componente, su función y cómo se podría
 integrar en el proyecto.
--Motor de cc
--Motor de aficionado
+Motor de cc
+Motor de aficionado
+
+![](https://github.com/g4b7i3l/1-Parcial-Arduino/blob/main/1.PNG?raw=true)
 
 Investigar en la semana y agregar uno de los siguientes componentes
--Sensor de flexión
--Sensor de fuerza
--Sensor de temperatura
+Sensor de flexión
+Sensor de fuerza
+Sensor de temperatura
+
+![](https://github.com/g4b7i3l/1-Parcial-Arduino/blob/main/2.PNG?raw=true)
+
 
 # Integrantes
 
