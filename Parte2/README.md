@@ -20,7 +20,7 @@ Investigar en la semana y agregar uno de los siguientes componentes
     
 # Proyecto: Modificación con Interruptor Deslizante y Números Primos
 
-![Primera parte Arduino](https://github.com/g4b7i3l/1-Parcial-Arduino/assets/84038677/448ff35c-c34c-43da-8643-ea060de1f6a9)
+![Primera parte Arduino](https://github.com/g4b7i3l/1-Parcial-Arduino/blob/main/Parte2/Segunda%20parte%20Arduino.PNG?raw=true)
 
 # Descripción
 
