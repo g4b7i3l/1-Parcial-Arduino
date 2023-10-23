@@ -3,12 +3,14 @@ Parte 3: Considerando el último número de tu número de documento (DNI o docum
 identidad), agrega un componente adicional que afecte el funcionamiento del proyecto.
 Describe en detalle qué hace este nuevo componente y cómo se integra en el proyecto.
 
--Si tu número de documento termina en (0-3) deberás implementar a tu proyecto la
+- Si tu número de documento termina en (0-3) deberás implementar a tu proyecto la
 fotoresistencia
--Si tu número de documento termina en (4-6) deberás implementar a tu proyecto la
+- Si tu número de documento termina en (4-6) deberás implementar a tu proyecto la
 Fotodiodo.
--Si tu número de documento termina en (7-9) deberás implementar a tu proyecto el
+- Si tu número de documento termina en (7-9) deberás implementar a tu proyecto el
 sensor de luz ambiental.
+
+![](https://github.com/g4b7i3l/1-Parcial-Arduino/blob/main/3.PNG?raw=true)
 
 # Integrantes
 
